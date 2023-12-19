@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Just a random dude working on random projects, never finishing any. Maybe I'll actually finish this README.md at some point... 
+
+🤪
+
 <!--
 **zer0her0/zer0her0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
